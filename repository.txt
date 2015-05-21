@@ -2,7 +2,7 @@
         <addon:client_trustlist>
                 <channel:release>
                         <version:1.5>
-                        <file:example.com/My_AddOn.zip>
+                        <file:http://clayhansonservers.createaforum.com/index.php?action=dlattach;topic=12.0;attach=19>
                 </channel>
         </addon>
 </repository>
