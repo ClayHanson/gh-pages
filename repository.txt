@@ -1,0 +1,8 @@
+<repository>
+        <addon:My_AddOn>
+                <channel:release>
+                        <version:1.5>
+                        <file:example.com/My_AddOn.zip>
+                </channel>
+        </addon>
+</repository>
