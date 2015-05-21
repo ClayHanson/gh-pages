@@ -1,5 +1,5 @@
 <repository>
-        <addon:My_AddOn>
+        <addon:client_trustlist>
                 <channel:release>
                         <version:1.5>
                         <file:example.com/My_AddOn.zip>
